@@ -4,4 +4,6 @@ title: "Portfolio page for 521"
 
 This is a Quarto website.
 
+Howdy! Welcome to my portfolio. I'm a MERN developer and future Data Scientist!
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
